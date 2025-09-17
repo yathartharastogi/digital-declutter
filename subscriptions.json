@@ -1,0 +1,38 @@
+[
+    {
+        "name": "Microsoft Rewards",
+        "amount": 119.0,
+        "currency": "INR",
+        "renewal_date": "2025-02-27"
+    },
+    {
+        "name": "Proton",
+        "amount": 3.99,
+        "currency": "USD",
+        "renewal_date": "2025-03-14"
+    },
+    {
+        "name": "Coursera",
+        "amount": 8.0,
+        "currency": "GBP",
+        "renewal_date": "2025-05-03"
+    },
+    {
+        "name": "Google Tips & Updates",
+        "amount": 3.0,
+        "currency": "USD",
+        "renewal_date": "2025-05-16"
+    },
+    {
+        "name": "Reddit",
+        "amount": 3.0,
+        "currency": "INR",
+        "renewal_date": "2025-07-24"
+    },
+    {
+        "name": "LinkedIn",
+        "amount": 4.0,
+        "currency": "INR",
+        "renewal_date": "2025-08-17"
+    }
+]
