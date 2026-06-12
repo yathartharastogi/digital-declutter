@@ -3,8 +3,6 @@
 ![Python](https://img.shields.io/badge/python-3.7%2B-blue.svg)
 ![License](https://img.shields.io/badge/license-MIT-green.svg)
 ![Issues](https://img.shields.io/github/issues/yras279/digital-declutter)
-![Stars](https://img.shields.io/github/stars/yras279/digital-declutter)
-![Forks](https://img.shields.io/github/forks/yras279/digital-declutter)
 
 > Seamlessly track and manage all your online subscriptions in one place. Stay organized, save money, and never lose track of recurring charges again.
 
